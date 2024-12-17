@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829352572490",
+    "project_id": "smallwinsapp-6d762",
+    "storage_bucket": "smallwinsapp-6d762.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829352572490:android:59948596153cda921098b3",
+        "android_client_info": {
+          "package_name": "com.mycompany.smallwinsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf4C0pKa-xFvO9QC7AW0Ajo27xbtaajOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
